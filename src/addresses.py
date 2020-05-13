@@ -1,0 +1,5 @@
+t2cr = {
+    "token_list": "0xEbcf3bcA271B26ae4B162Ba560e243055Af0E679",
+    "erc20_list": "0xCb4Aae35333193232421E86Cd2E9b6C91f3B125F",
+    "view": "0xf9b9b5440340123B21BFf1dDAFE1ad6Feb9D6E7F"
+}
